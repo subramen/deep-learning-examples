@@ -1,4 +1,4 @@
-## Object Detection with Torchvision
+# Object Detection with Torchvision
 
 This code snippet accompanied my presentation at the Snowflake Summit '22, 
 where I briefly mentioned a possible use case for detecting foot and car 
@@ -9,7 +9,7 @@ data (images, text, audio) into either a) structured embeddings that can
 be used as features across different downstreams, or b) information by 
 extracting meaning from the unstructured input.
 
-### Running the example
+## Running the example
 ```
 python obj_detection_example.py your_image_url 
 ```
